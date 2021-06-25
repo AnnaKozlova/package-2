@@ -1,0 +1,5 @@
+{
+    "name": "@mono-repo/repo-2",
+    "version": "1.0.0",
+    "main": "index.js"
+}
